@@ -3,7 +3,7 @@
    💻 OS NOSSOS SERVIÇOS
 
 
-## 📄 DOCUMENT OFFICIEL
+## 📄 DOCUMENTO OFICIAL
 
 <div align="center">
 
