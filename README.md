@@ -2,12 +2,9 @@
 <div align="center">
    💻 OS NOSSOS SERVIÇOS
 
-
-## 📄 DOCUMENTO OFICIAL
-
 <div align="center">
 
-### Découvrez notre présentation complète
+### DESCUBRA O SEGREDO 
 
 <a href="./pdf%20para%20web.jo.pdf">
 
