@@ -1,10 +1,10 @@
 
 <div align="center">
-   💻 OS NOSSOS SERVIÇOS
+   
 
 <div align="center">
 
-### DESCUBRA O SEGREDO 
+ 
 
 <a href="./pdf%20para%20web.jo.pdf">
 
