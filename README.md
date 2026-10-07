@@ -1,6 +1,6 @@
 # WOLCOME TO WEB.JO.DIGITAL 
 <div align="center">
-## 💻 NOS SERVICES
+## 💻 OS NOSSOS SERVIÇOS
 
 
 ## 📄 DOCUMENT OFFICIEL
